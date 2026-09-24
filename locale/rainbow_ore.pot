@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rainbow_ore\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.lua
+msgid "Rainbow Ore"
+msgstr ""
+
+#: init.lua
+msgid "Rainbow Ore Ingot"
+msgstr ""
+
+#: init.lua
+msgid "Rainbow Pickaxe"
+msgstr ""
+
+#: init.lua
+msgid "Rainbow Axe"
+msgstr ""
+
+#: init.lua
+msgid "Rainbow Shovel"
+msgstr ""
+
+#: init.lua
+msgid "Rainbow Sword"
+msgstr ""
+
+#: rainbow_armor.lua
+msgid "Rainbow Helmet"
+msgstr ""
+
+#: rainbow_armor.lua
+msgid "Rainbow Chestplate"
+msgstr ""
+
+#: rainbow_armor.lua
+msgid "Rainbow Leggings"
+msgstr ""
+
+#: rainbow_armor.lua
+msgid "Rainbow Boots"
+msgstr ""
+
+#: rainbow_shield.lua
+msgid "Rainbow Shield"
+msgstr ""
+
+#: rainbow_ore_grayscale.lua
+msgid "Grayscale Rainbow Pickaxe"
+msgstr ""
+
+#: rainbow_ore_grayscale.lua
+msgid "Grayscale Rainbow Axe"
+msgstr ""
+
+#: rainbow_ore_grayscale.lua
+msgid "Grayscale Rainbow Shovel"
+msgstr ""
+
+#: rainbow_ore_grayscale.lua
+msgid "Grayscale Rainbow Sword"
+msgstr ""
+
+#: rainbow_ore_grayscale.lua
+msgid "Grayscale Rainbow Helmet"
+msgstr ""
+
+#: rainbow_ore_grayscale.lua
+msgid "Grayscale Rainbow Chestplate"
+msgstr ""
+
+#: rainbow_ore_grayscale.lua
+msgid "Grayscale Rainbow Leggings"
+msgstr ""
+
+#: rainbow_ore_grayscale.lua
+msgid "Grayscale Rainbow Boots"
+msgstr ""
+
+#: rainbow_ore_grayscale.lua
+msgid "Grayscale Rainbow Shield"
+msgstr ""

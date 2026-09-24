@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rainbow_ore\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Rainbow Ore"
+msgstr "Rainbow Ore"
+
+msgid "Rainbow Ore Ingot"
+msgstr "Rainbow Ore Ingot"
+
+msgid "Rainbow Pickaxe"
+msgstr "Rainbow Pickaxe"
+
+msgid "Rainbow Axe"
+msgstr "Rainbow Axe"
+
+msgid "Rainbow Shovel"
+msgstr "Rainbow Shovel"
+
+msgid "Rainbow Sword"
+msgstr "Rainbow Sword"
+
+msgid "Rainbow Helmet"
+msgstr "Rainbow Helmet"
+
+msgid "Rainbow Chestplate"
+msgstr "Rainbow Chestplate"
+
+msgid "Rainbow Leggings"
+msgstr "Rainbow Leggings"
+
+msgid "Rainbow Boots"
+msgstr "Rainbow Boots"
+
+msgid "Rainbow Shield"
+msgstr "Rainbow Shield"
+
+msgid "Grayscale Rainbow Pickaxe"
+msgstr "Grayscale Rainbow Pickaxe"
+
+msgid "Grayscale Rainbow Axe"
+msgstr "Grayscale Rainbow Axe"
+
+msgid "Grayscale Rainbow Shovel"
+msgstr "Grayscale Rainbow Shovel"
+
+msgid "Grayscale Rainbow Sword"
+msgstr "Grayscale Rainbow Sword"
+
+msgid "Grayscale Rainbow Helmet"
+msgstr "Grayscale Rainbow Helmet"
+
+msgid "Grayscale Rainbow Chestplate"
+msgstr "Grayscale Rainbow Chestplate"
+
+msgid "Grayscale Rainbow Leggings"
+msgstr "Grayscale Rainbow Leggings"
+
+msgid "Grayscale Rainbow Boots"
+msgstr "Grayscale Rainbow Boots"
+
+msgid "Grayscale Rainbow Shield"
+msgstr "Grayscale Rainbow Shield"

@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rainbow_ore\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Rainbow Ore"
+msgstr "彩虹矿石"
+
+msgid "Rainbow Ore Ingot"
+msgstr "彩虹矿石锭"
+
+msgid "Rainbow Pickaxe"
+msgstr "彩虹镐"
+
+msgid "Rainbow Axe"
+msgstr "彩虹斧"
+
+msgid "Rainbow Shovel"
+msgstr "彩虹铲"
+
+msgid "Rainbow Sword"
+msgstr "彩虹剑"
+
+msgid "Rainbow Helmet"
+msgstr "彩虹头盔"
+
+msgid "Rainbow Chestplate"
+msgstr "彩虹胸甲"
+
+msgid "Rainbow Leggings"
+msgstr "彩虹护腿"
+
+msgid "Rainbow Boots"
+msgstr "彩虹靴"
+
+msgid "Rainbow Shield"
+msgstr "彩虹盾"
+
+msgid "Grayscale Rainbow Pickaxe"
+msgstr "灰度彩虹镐"
+
+msgid "Grayscale Rainbow Axe"
+msgstr "灰度彩虹斧"
+
+msgid "Grayscale Rainbow Shovel"
+msgstr "灰度彩虹铲"
+
+msgid "Grayscale Rainbow Sword"
+msgstr "灰度彩虹剑"
+
+msgid "Grayscale Rainbow Helmet"
+msgstr "灰度彩虹头盔"
+
+msgid "Grayscale Rainbow Chestplate"
+msgstr "灰度彩虹胸甲"
+
+msgid "Grayscale Rainbow Leggings"
+msgstr "灰度彩虹护腿"
+
+msgid "Grayscale Rainbow Boots"
+msgstr "灰度彩虹靴"
+
+msgid "Grayscale Rainbow Shield"
+msgstr "灰度彩虹盾"

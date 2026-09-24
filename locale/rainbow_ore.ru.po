@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rainbow_ore\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Rainbow Ore"
+msgstr "Радужная руда"
+
+msgid "Rainbow Ore Ingot"
+msgstr "Слиток радужной руды"
+
+msgid "Rainbow Pickaxe"
+msgstr "Радужная кирка"
+
+msgid "Rainbow Axe"
+msgstr "Радужный топор"
+
+msgid "Rainbow Shovel"
+msgstr "Радужная лопата"
+
+msgid "Rainbow Sword"
+msgstr "Радужный меч"
+
+msgid "Rainbow Helmet"
+msgstr "Радужный шлем"
+
+msgid "Rainbow Chestplate"
+msgstr "Радужный нагрудник"
+
+msgid "Rainbow Leggings"
+msgstr "Радужные поножи"
+
+msgid "Rainbow Boots"
+msgstr "Радужные сапоги"
+
+msgid "Rainbow Shield"
+msgstr "Радужный щит"
+
+msgid "Grayscale Rainbow Pickaxe"
+msgstr "Радужная кирка в оттенках серого"
+
+msgid "Grayscale Rainbow Axe"
+msgstr "Радужный топор в оттенках серого"
+
+msgid "Grayscale Rainbow Shovel"
+msgstr "Радужная лопата в оттенках серого"
+
+msgid "Grayscale Rainbow Sword"
+msgstr "Радужный меч в оттенках серого"
+
+msgid "Grayscale Rainbow Helmet"
+msgstr "Радужный шлем в оттенках серого"
+
+msgid "Grayscale Rainbow Chestplate"
+msgstr "Радужный нагрудник в оттенках серого"
+
+msgid "Grayscale Rainbow Leggings"
+msgstr "Радужные поножи в оттенках серого"
+
+msgid "Grayscale Rainbow Boots"
+msgstr "Радужные сапоги в оттенках серого"
+
+msgid "Grayscale Rainbow Shield"
+msgstr "Радужный щит в оттенках серого"

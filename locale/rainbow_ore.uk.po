@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rainbow_ore\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Rainbow Ore"
+msgstr "Веселкова руда"
+
+msgid "Rainbow Ore Ingot"
+msgstr "Злиток веселкової руди"
+
+msgid "Rainbow Pickaxe"
+msgstr "Веселкова кирка"
+
+msgid "Rainbow Axe"
+msgstr "Веселкова сокира"
+
+msgid "Rainbow Shovel"
+msgstr "Веселкова лопата"
+
+msgid "Rainbow Sword"
+msgstr "Веселковий меч"
+
+msgid "Rainbow Helmet"
+msgstr "Веселковий шолом"
+
+msgid "Rainbow Chestplate"
+msgstr "Веселкова нагрудна броня"
+
+msgid "Rainbow Leggings"
+msgstr "Веселкові поножі"
+
+msgid "Rainbow Boots"
+msgstr "Веселкові чоботи"
+
+msgid "Rainbow Shield"
+msgstr "Веселковий щит"
+
+msgid "Grayscale Rainbow Pickaxe"
+msgstr "Веселкова кирка у відтінках сірого"
+
+msgid "Grayscale Rainbow Axe"
+msgstr "Веселкова сокира у відтінках сірого"
+
+msgid "Grayscale Rainbow Shovel"
+msgstr "Веселкова лопата у відтінках сірого"
+
+msgid "Grayscale Rainbow Sword"
+msgstr "Веселковий меч у відтінках сірого"
+
+msgid "Grayscale Rainbow Helmet"
+msgstr "Веселковий шолом у відтінках сірого"
+
+msgid "Grayscale Rainbow Chestplate"
+msgstr "Веселкова нагрудна броня у відтінках сірого"
+
+msgid "Grayscale Rainbow Leggings"
+msgstr "Веселкові поножі у відтінках сірого"
+
+msgid "Grayscale Rainbow Boots"
+msgstr "Веселкові чоботи у відтінках сірого"
+
+msgid "Grayscale Rainbow Shield"
+msgstr "Веселковий щит у відтінках сірого"

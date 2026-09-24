@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rainbow_ore\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Rainbow Ore"
+msgstr "Regenboogerts"
+
+msgid "Rainbow Ore Ingot"
+msgstr "Regenboogertsstaaf"
+
+msgid "Rainbow Pickaxe"
+msgstr "Regenbooghouweel"
+
+msgid "Rainbow Axe"
+msgstr "Regenboogbijl"
+
+msgid "Rainbow Shovel"
+msgstr "Regenboogschep"
+
+msgid "Rainbow Sword"
+msgstr "Regenboogzwaard"
+
+msgid "Rainbow Helmet"
+msgstr "Regenbooghelm"
+
+msgid "Rainbow Chestplate"
+msgstr "Regenboogborstplaat"
+
+msgid "Rainbow Leggings"
+msgstr "Regenboogbeenplaten"
+
+msgid "Rainbow Boots"
+msgstr "Regenbooglaarzen"
+
+msgid "Rainbow Shield"
+msgstr "Regenboogschild"
+
+msgid "Grayscale Rainbow Pickaxe"
+msgstr "Regenbooghouweel in grijstinten"
+
+msgid "Grayscale Rainbow Axe"
+msgstr "Regenboogbijl in grijstinten"
+
+msgid "Grayscale Rainbow Shovel"
+msgstr "Regenboogschep in grijstinten"
+
+msgid "Grayscale Rainbow Sword"
+msgstr "Regenboogzwaard in grijstinten"
+
+msgid "Grayscale Rainbow Helmet"
+msgstr "Regenbooghelm in grijstinten"
+
+msgid "Grayscale Rainbow Chestplate"
+msgstr "Regenboogborstplaat in grijstinten"
+
+msgid "Grayscale Rainbow Leggings"
+msgstr "Regenboogbeenplaten in grijstinten"
+
+msgid "Grayscale Rainbow Boots"
+msgstr "Regenbooglaarzen in grijstinten"
+
+msgid "Grayscale Rainbow Shield"
+msgstr "Regenboogschild in grijstinten"

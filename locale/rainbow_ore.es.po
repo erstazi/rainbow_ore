@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rainbow_ore\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Translators: Jordan Irwin (AntumDeluge)
+
+msgid "Rainbow Ore"
+msgstr "Mineral de Arcoíris"
+
+msgid "Rainbow Ore Ingot"
+msgstr "Lingote de Arcoíris"
+
+msgid "Rainbow Pickaxe"
+msgstr "Pico de Arcoíris"
+
+msgid "Rainbow Axe"
+msgstr "Hacha de Arcoíris"
+
+msgid "Rainbow Shovel"
+msgstr "Pala de Arcoíris"
+
+msgid "Rainbow Sword"
+msgstr "Espada de Arcoíris"
+
+msgid "Rainbow Helmet"
+msgstr "Casco de Arcoíris"
+
+msgid "Rainbow Chestplate"
+msgstr "Pechera de Arcoíris"
+
+msgid "Rainbow Leggings"
+msgstr "Esquinela de Arcoíris"
+
+msgid "Rainbow Boots"
+msgstr "Botas de Arcoíris"
+
+msgid "Rainbow Shield"
+msgstr "Escudo de Arcoíris"
+
+msgid "Grayscale Rainbow Pickaxe"
+msgstr "Pico de Arcoíris en escala de grises"
+
+msgid "Grayscale Rainbow Axe"
+msgstr "Hacha de Arcoíris en escala de grises"
+
+msgid "Grayscale Rainbow Shovel"
+msgstr "Pala de Arcoíris en escala de grises"
+
+msgid "Grayscale Rainbow Sword"
+msgstr "Espada de Arcoíris en escala de grises"
+
+msgid "Grayscale Rainbow Helmet"
+msgstr "Casco de Arcoíris en escala de grises"
+
+msgid "Grayscale Rainbow Chestplate"
+msgstr "Pechera de Arcoíris en escala de grises"
+
+msgid "Grayscale Rainbow Leggings"
+msgstr "Esquinela de Arcoíris en escala de grises"
+
+msgid "Grayscale Rainbow Boots"
+msgstr "Botas de Arcoíris en escala de grises"
+
+msgid "Grayscale Rainbow Shield"
+msgstr "Escudo de Arcoíris en escala de grises"
