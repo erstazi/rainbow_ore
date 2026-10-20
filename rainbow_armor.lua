@@ -28,7 +28,7 @@ core.register_tool("rainbow_ore:rainbow_ore_boots", {
 		armor_feet = 20,
 		armor_heal = 20,
 		armor_use = 25,
-		physics_speed = 1.5,
+		physics_speed = 1,
 		physics_jump = 1,
 		armor_fire = 1,
 	},
