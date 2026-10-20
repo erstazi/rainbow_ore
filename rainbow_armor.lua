@@ -24,10 +24,18 @@ core.register_tool("rainbow_ore:rainbow_ore_leggings", {
 core.register_tool("rainbow_ore:rainbow_ore_boots", {
 	description = S("Rainbow Boots"),
 	inventory_image = "rainbow_ore_boots_inv.png",
-	groups = {armor_feet=20, armor_heal=17, armor_use=40},
+	groups = {
+		armor_feet = 20,
+		armor_heal = 20,
+		armor_use = 25,
+		physics_speed = 1.5,
+		physics_jump = 1,
+		armor_fire = 1,
+	},
+	armor_groups = {fleshy = 25},
+	damage_groups = {cracky = 3, snappy = 2, level = 3},
 	wear = 0,
 })
-
 
 --Define Rainbow Armor crafting recipe
 core.register_craft({
