@@ -32,7 +32,7 @@ core.register_tool("rainbow_ore:rainbow_ore_boots", {
 		physics_jump = 1,
 		armor_fire = 1,
 	},
-	armor_groups = {fleshy = 25},
+	armor_groups = {fleshy = 40},
 	damage_groups = {cracky = 3, snappy = 2, level = 3},
 	wear = 0,
 })

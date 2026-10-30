@@ -197,3 +197,10 @@ core.register_on_mods_loaded(function()
 end)
 
 dofile(rainbow_ore.modpath.."/rainbow_ore_grayscale.lua")
+
+if core.get_modpath("toolranks") and toolranks and toolranks.add_tool then
+  toolranks.add_tool("rainbow_ore:rainbow_ore_pickaxe")
+  toolranks.add_tool("rainbow_ore:rainbow_ore_axe")
+  toolranks.add_tool("rainbow_ore:rainbow_ore_shovel")
+  toolranks.add_tool("rainbow_ore:rainbow_ore_sword")
+end

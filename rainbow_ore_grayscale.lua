@@ -103,6 +103,10 @@ for _, item in ipairs(items) do
 		end
 
 		core.register_tool(item.gray, gray_def)
+
+		if core.get_modpath("toolranks") and toolranks and toolranks.add_tool then
+			toolranks.add_tool(item.gray)
+		end
 	end
 
 	core.register_craft({
