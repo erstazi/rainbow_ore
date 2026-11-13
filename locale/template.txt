@@ -1,0 +1,21 @@
+# textdomain: rainbow_ore
+Rainbow Ore=
+Rainbow Ore Ingot=
+Rainbow Pickaxe=
+Rainbow Axe=
+Rainbow Shovel=
+Rainbow Sword=
+Rainbow Helmet=
+Rainbow Chestplate=
+Rainbow Leggings=
+Rainbow Boots=
+Rainbow Shield=
+Grayscale Rainbow Pickaxe=
+Grayscale Rainbow Axe=
+Grayscale Rainbow Shovel=
+Grayscale Rainbow Sword=
+Grayscale Rainbow Helmet=
+Grayscale Rainbow Chestplate=
+Grayscale Rainbow Leggings=
+Grayscale Rainbow Boots=
+Grayscale Rainbow Shield=
