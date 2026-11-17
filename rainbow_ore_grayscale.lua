@@ -104,7 +104,7 @@ for _, item in ipairs(items) do
 
 		core.register_tool(item.gray, gray_def)
 
-		if core.get_modpath("toolranks") and toolranks and toolranks.add_tool then
+		if rainbow_def.tool_capabilities and core.get_modpath("toolranks") and toolranks and toolranks.add_tool then
 			toolranks.add_tool(item.gray)
 		end
 	end
