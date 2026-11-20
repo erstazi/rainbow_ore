@@ -42,18 +42,25 @@ core.register_craft({
 
 
 --Register Rainbow Pickaxe
+
 core.register_tool("rainbow_ore:rainbow_ore_pickaxe", {
 	description = S("Rainbow Pickaxe"),
 	inventory_image = "rainbow_ore_pickaxe.png",
+
 	tool_capabilities = {
-		full_punch_interval = 0.9,
-		max_drop_level=3,
-		groupcaps={
-			cracky = {times={[1]=1.0, [2]=0.5, [3]=0.25}, uses=15, maxlevel=3},
+		full_punch_interval = 0.8,
+		max_drop_level = 3,
+		groupcaps = {
+			cracky = {
+				times = {[1] = 0.8, [2] = 0.35, [3] = 0.15},
+				uses = 40,
+				maxlevel = 3,
+			},
 		},
-		damage_groups = {fleshy=5},
+		damage_groups = {fleshy = 8},
 	},
 })
+
 
 
 local stick = core.settings:get("rainbow_ore.stick")
@@ -80,15 +87,21 @@ core.register_craft({
 core.register_tool("rainbow_ore:rainbow_ore_axe", {
 	description = S("Rainbow Axe"),
 	inventory_image = "rainbow_ore_axe.png",
+
 	tool_capabilities = {
-		full_punch_interval = 0.9,
-		max_drop_level=3,
-		groupcaps={
-			choppy={times={[1]=1.05, [2]=0.45, [3]=0.25}, uses=15, maxlevel=3},
+		full_punch_interval = 0.8,
+		max_drop_level = 3,
+		groupcaps = {
+			choppy = {
+				times = {[1] = 0.8, [2] = 0.35, [3] = 0.15},
+				uses = 40,
+				maxlevel = 3,
+			},
 		},
-		damage_groups = {fleshy=7},
-	}
+		damage_groups = {fleshy = 10},
+	},
 })
+
 
 
 --Define Rainbow Axe crafting recipe
@@ -116,15 +129,21 @@ core.register_tool("rainbow_ore:rainbow_ore_shovel", {
 	description = S("Rainbow Shovel"),
 	inventory_image = "rainbow_ore_shovel.png",
 	wield_image = "rainbow_ore_shovel.png^[transformR90",
+
 	tool_capabilities = {
-		full_punch_interval = 1.0,
-		max_drop_level=3,
-		groupcaps={
-			crumbly = {times={[1]=0.55, [2]=0.25, [3]=0.15}, uses=15, maxlevel=3},
+		full_punch_interval = 0.8,
+		max_drop_level = 3,
+		groupcaps = {
+			crumbly = {
+				times = {[1] = 0.4, [2] = 0.2, [3] = 0.1},
+				uses = 40,
+				maxlevel = 3,
+			},
 		},
-		damage_groups = {fleshy=4},
+		damage_groups = {fleshy = 7},
 	},
 })
+
 
 
 --Define Rainbow shovel crafting recipe
@@ -142,15 +161,21 @@ core.register_craft({
 core.register_tool("rainbow_ore:rainbow_ore_sword", {
 	description = S("Rainbow Sword"),
 	inventory_image = "rainbow_ore_sword.png",
+
 	tool_capabilities = {
-		full_punch_interval = 0.7,
-		max_drop_level=3,
-		groupcaps={
-			snappy={times={[1]=0.95, [2]=0.45, [3]=0.15}, uses=20, maxlevel=3},
+		full_punch_interval = 0.55,
+		max_drop_level = 3,
+		groupcaps = {
+			snappy = {
+				times = {[1] = 0.75, [2] = 0.35, [3] = 0.12},
+				uses = 40,
+				maxlevel = 3,
+			},
 		},
-		damage_groups = {fleshy=10},
-	}
+		damage_groups = {fleshy = 14},
+	},
 })
+
 
 
 --Define Rainbow sword crafting recipe

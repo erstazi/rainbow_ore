@@ -1,41 +1,68 @@
-
 local S = core.get_translator(rainbow_ore.modname)
 
+-- Define Rainbow Armor
 
---Define Rainbow Armor
 core.register_tool("rainbow_ore:rainbow_ore_helmet", {
 	description = S("Rainbow Helmet"),
 	inventory_image = "rainbow_ore_helmet_inv.png",
-	groups = {armor_head=20, armor_heal=17, armor_use=40},
+
+	groups = {
+		armor_head = 30,
+		armor_heal = 20,
+		armor_use = 20,
+		armor_fire = 1,
+	},
+
 	wear = 0,
 })
+
 core.register_tool("rainbow_ore:rainbow_ore_chestplate", {
 	description = S("Rainbow Chestplate"),
 	inventory_image = "rainbow_ore_chestplate_inv.png",
-	groups = {armor_torso=25, armor_heal=17, armor_use=40},
+
+	groups = {
+		armor_torso = 35,
+		armor_heal = 20,
+		armor_use = 20,
+		armor_fire = 1,
+	},
+
 	wear = 0,
 })
+
 core.register_tool("rainbow_ore:rainbow_ore_leggings", {
 	description = S("Rainbow Leggings"),
 	inventory_image = "rainbow_ore_leggings_inv.png",
-	groups = {armor_legs=25, armor_heal=17, armor_use=40},
+
+	groups = {
+		armor_legs = 35,
+		armor_heal = 20,
+		armor_use = 20,
+		armor_fire = 1,
+	},
+
 	wear = 0,
 })
+
 core.register_tool("rainbow_ore:rainbow_ore_boots", {
 	description = S("Rainbow Boots"),
 	inventory_image = "rainbow_ore_boots_inv.png",
+
 	groups = {
-		armor_feet = 20,
+		armor_feet = 30,
 		armor_heal = 20,
-		armor_use = 25,
+		armor_use = 20,
 		physics_speed = 1,
 		physics_jump = 1,
 		armor_fire = 1,
 	},
+
 	armor_groups = {fleshy = 40},
 	damage_groups = {cracky = 3, snappy = 2, level = 3},
+
 	wear = 0,
 })
+
 
 --Define Rainbow Armor crafting recipe
 core.register_craft({
